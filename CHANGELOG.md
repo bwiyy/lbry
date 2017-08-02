@@ -15,6 +15,7 @@ at anytime.
 ### Added
   * Added validation of currencies.
   * Added blob_announce API command
+  * Added `claim_tip`, a command to tip the owner of a claim via a support transaction
 
 ### Fixed
   * Fixed incorrect formatting of "amount" fields
