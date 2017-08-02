@@ -15,6 +15,7 @@ at anytime.
 ### Added
   * Added validation of currencies.
   * Added blob_announce API command
+  * Adeed option to download by seeking head blob first
 
 ### Fixed
   * Fixed incorrect formatting of "amount" fields
